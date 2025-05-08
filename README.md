@@ -1,7 +1,6 @@
 # WEB-LV3
 # Virtualna Videoteka
 # IMPORTANT NOTICE:THE LINK WORKS. IT JUST NEEDS A FEW SECONDS TO LOAD THE WHOLE CSV FILE INTO THE TABLE 
-->## 🌐 Live Demo
 
 [MY LV3 WEB ASSIGNMENT](https://web-lv3-production-d226.up.railway.app)
 
