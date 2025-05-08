@@ -1,5 +1,7 @@
 # WEB-LV3
 # Virtualna Videoteka
+# IMPORTANT NOTICE:THE LINK WORKS. IT JUST NEEDS A FEW SECONDS TO LOAD THE WHOLE CSV FILE INTO THE TABLE 
+->[MY LV3 LABORATORY ASSIGNMENT](web-lv3-production-d226.up.railway.app)
 
 **Virtualna Videoteka** is a web application for browsing and managing a collection of films. Users can view, filter, sort, and select movies for a virtual borrowing cart.
 
